@@ -8,8 +8,7 @@ Make sure you have the following installed on your system:
 * Java Runtime Environment (JRE)
   
 #### Instructions
-* Run the Customer class main method to start the virtual café:
-
+* Run the Customer class main method to start the virtual café
 
 #### Additional Notes
 * This project uses a client-server architecture, with the Customer class serving as the server and the Barista class as the client.

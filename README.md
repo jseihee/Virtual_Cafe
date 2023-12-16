@@ -1,5 +1,6 @@
 # Virtual_Cafe
-Welcome to the Virtual Café system! This Java-based project simulates a café environment where customers can place orders, and the barista processes them in a concurrent and multithreaded setting. Below are instructions on how to run the code.
+Welcome to the Virtual Café system! 
+This Java-based project simulates a café environment where customers can place orders, and the barista processes them in a concurrent and multithreaded setting. Below are instructions on how to run the code.
 
 #### Prerequisites
 Make sure you have the following installed on your system:
